@@ -22,10 +22,10 @@
 
 ```
 ps
- ├─ BFS
- ├─ DP
- ├─ Greedy
- └─ Graph
+ ├─ Level1
+ |    └─ 문제 이름
+ ├─ Level2
+ └─ Level3
 ```
 
 ---
@@ -45,5 +45,5 @@ ps
 
 * 백준 [BOJ], 프로그래머스 [PGS]
 * `[BOJ] xxx번 문제 - BFS / Silver 2`
-* `[PGS] 타겟 넘버 - DFS`
+* `[PGS] 타겟 넘버 - DFS / Leve1 2`
 
