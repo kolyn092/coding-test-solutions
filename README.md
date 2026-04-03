@@ -21,17 +21,21 @@
 ## 📂 Directory Structure
 
 ```
-ps
- ├─ Level1
- |    └─ 문제 이름
- ├─ Level2
- └─ Level3
+etc
+ ├─ practice
+ |     └─ ...
+ └─ ps  
+     ├─ Level1
+     |    └─ 문제 이름
+     └─ Level2  
 
-프로그래머스/0
- └─ 문제 이름
-      ├─ README.md
-      └─ .java
-프로그래머스/1
+프로그래머스
+ ├─ 0
+ |  └─문제 이름
+ |       ├─ README.md
+ |       └─ .java
+ | 
+ └─ 1 
 
 ```
 * ps 폴더는 이전에 작업하던 폴더입니다.
