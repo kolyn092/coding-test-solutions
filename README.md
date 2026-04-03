@@ -26,24 +26,30 @@ ps
  |    └─ 문제 이름
  ├─ Level2
  └─ Level3
+
+프로그래머스/0
+ └─ 문제 이름
+      ├─ README.md
+      └─ .java
+프로그래머스/1
+
 ```
+* ps 폴더는 이전에 작업하던 폴더입니다.
+
+* 이외의 폴더는 사이트에서 문제를 풀 경우 자동으로 commit되는 폴더들입니다.
 
 ---
 
 ## ✏️ Problem Solving Convention
 
-* 파일명: `문제 이름`
+* 폴더명: `문제번호. 문제이름`
 * 문제별 폴더 내 포함 내용:
 
-  * ✔️ 문제 풀이 코드
-  * ✔️ 풀이 접근 방법 (주석 또는 별도 md)
-  * ✔️ 시간/공간 복잡도 분석
+  * ✔️ 문제 풀이 코드 - 문제이름.java
+  * ✔️ 문제 풀이 정보 - README.md
 
 ---
 
 ## 📝 Commit Convention
 
-* 백준 [BOJ], 프로그래머스 [PGS]
-* `[BOJ] xxx번 문제 - BFS / Silver 2`
-* `[PGS] 타겟 넘버 - DFS / Level 2`
-
+* [백준 허브 확장 프로그램](https://chromewebstore.google.com/detail/%EB%B0%B1%EC%A4%80%ED%97%88%EB%B8%8Cbaekjoonhub/ccammcjdkpgjmcpijpahlehmapgmphmk?hl=ko) 을 사용하여 사이트에서 문제를 풀 경우 자동으로 commit됩니다.
