@@ -52,9 +52,11 @@ etc
   * ✔️ 문제 풀이 코드 - 문제이름.java
   * ✔️ 문제 풀이 정보 - README.md
 
+```
 [level ?] Title: 문제 이름, Time: 걸린 시간(ms), Memory: 사용된 메모리 -BaekjoonHub
 [PGS] 문제이름 / Level ?
 [ETC] 알고리즘 이름 - 문제 이름
+```
 
 ---
 
